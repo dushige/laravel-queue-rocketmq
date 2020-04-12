@@ -1,5 +1,5 @@
 {
-    "name": "freyo/laravel-queue-rocketmq",
+    "name": "dushige/laravel-queue-rocketmq123",
     "description": "Queue Adapter for AlibabaMQ(Apache RocketMQ) SDK",
     "keywords": ["laravel-queue", "rocketmq", "aliyun", "alibabamq"],
     "require": {
